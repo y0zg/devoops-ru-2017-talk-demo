@@ -1,2 +1,2 @@
 # devoops-ru-2017-talk-demo
-Code samples for the demo during my talk at DevOops in St. Petersburg (Russia) 2017
+https://www.youtube.com/watch?v=u9Yi9VAO0Ec
